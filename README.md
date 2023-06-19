@@ -3,6 +3,7 @@
 <h2>Description</h2>
 Project created for Unity Learn: Junior Programmer Pathway.
 Aim artillery by adjusting power/angle and destroy targets.
+Shop with one upgrade: explosion radius.
 <br />
 
 
