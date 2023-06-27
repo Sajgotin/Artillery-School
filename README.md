@@ -16,6 +16,9 @@ Shop with one upgrade: explosion radius.
 
 - <b>Windows 10</b>
 
+<h2>Preview:</h2>
+https://youtu.be/ppjxbK1YzKs
+
 <h2>Screenshot:</h2>
 
 <p align="center">
